@@ -6,7 +6,7 @@
 
 **Unresolved Issues:**
 
-**Notes:**
+Worked with Simeon on code.
 
 
 ---
